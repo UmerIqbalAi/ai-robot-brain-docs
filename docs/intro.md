@@ -1,5 +1,5 @@
 ---
-id: ai-robot-brain
+id: intro
 title: The AI-Robot Brain (NVIDIA Isaac™)
 sidebar_label: AI-Robot Brain
 ---

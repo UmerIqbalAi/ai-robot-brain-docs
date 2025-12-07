@@ -4,13 +4,13 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Chapter 1: Understanding the AI-Robot Brain',
+      label: 'Chapter 1: Introduction',
       link: {
         type: 'doc',
-        id: 'ai-robot-brain',
+        id: 'intro',
       },
       items: [
-        'ai-robot-brain',
+        'intro',
       ],
     },
     {
